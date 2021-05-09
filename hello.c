@@ -9,4 +9,5 @@ int main()
  {
 	 // function will pick string from here according to number passed 
  }
+ printf("variant %d:\n", get_variant()); // added this line 
 }
