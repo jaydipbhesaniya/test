@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include "variant.h"
+#include "version.h"
 int main()
 {
  printf("maruti\n");
