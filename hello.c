@@ -3,5 +3,6 @@
 int main()
 {
  printf("maruti\n");
+ printf("Jay Hanuman\n");
  return 0;
 }
