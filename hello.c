@@ -1,3 +1,4 @@
+// this code is only for testing nothing to do with any operation
 #include<stdio.h>
 #include<stdlib.h>
 #include "variant.h"
